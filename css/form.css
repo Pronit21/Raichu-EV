@@ -4,9 +4,6 @@
     box-sizing: border-box;
 }
 
-*:focus{
-    outline: none;
-}
 
 body{
     position: relative;
@@ -30,7 +27,7 @@ body{
 }
 
 .heading{
-    opacity: 0;
+    
     text-transform: capitalize;
     text-align: center;
     font-size: 80px;
